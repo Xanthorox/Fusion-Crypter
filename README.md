@@ -1,6 +1,6 @@
 # Fusion-Crypter
 
-# This project was created using Xanthorox AI to demonstrate what can happen when AI is misused — and to show how accessible powerful techniques can become.
+This project was created using Xanthorox AI to demonstrate what can happen when AI is misused — and to show how accessible powerful techniques can become.
 
 # Detection Result on Xcorn Payload
 
