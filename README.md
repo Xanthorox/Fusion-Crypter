@@ -52,11 +52,9 @@ Icon Changing: Replace the output executable's icon to make it appear legitimate
 Version Information: Set a custom version string for the output file.
 
 
-#Building from source
+# Building from source
 
 Prerequisites
-
-Windows environment
 
 MinGW-w64 (GCC)
 
@@ -68,8 +66,13 @@ Open a command prompt in the same directory.
 
 Run:
 
-"x86_64-w64-mingw32-gcc crypter_fusion.c -o crypter_fusion.exe -mwindows -lcomctl32 -lcomdlg32 -lshell32 -luxtheme"
+*x86_64-w64-mingw32-gcc crypter_fusion.c -o crypter_fusion.exe -mwindows -lcomctl32 -lcomdlg32 -lshell32 -luxtheme*
 
 This will produce crypter_fusion.exe
+
+
+# Note 
+
+I intentionally made this low level i won't gonna post an fully fledged crypter which can be used in illigal oporations , if you have skills then modify it yourself and make it more powerfull but again i won't be responsible for this
 
 
