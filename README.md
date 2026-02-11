@@ -1,3 +1,41 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/⚠️-DEPRECATED-red?style=for-the-badge" alt="Deprecated"/>
+</p>
+
+<h1 align="center">⚠️ This Project Has Been Discontinued</h1>
+
+<p align="center">
+  This crypter has been <b>fully rewritten from scratch</b> with a completely new architecture,<br/>
+  8 encryption engines (including 4 custom research-grade ciphers), 23 runtime protection layers,<br/>
+  an 18-mutation PE metamorphism engine, and real-time AV/EDR threat modeling.
+</p>
+
+---
+
+<h2 align="center">
+  👉 <a href="https://github.com/Xanthorox/Xen-OFCrypt">Xanthorox-OFCrypt (New Version)</a> 👈
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Xanthorox/Xen-OFCrypt">
+    <img src="https://img.shields.io/badge/Go_To_New_Repo-Xen--OFCrypt-00e5ff?style=for-the-badge" alt="New Repo"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Copyright (c) 2024-2026 Gary Senderson / Xanthorox</i></p>
+
+
+
+
+
+
+
+
+
+
+
 # Fusion-Crypter
 
 This project was created using Xanthorox AI to demonstrate what can happen when AI is misused — and to show how accessible powerful techniques can become.
